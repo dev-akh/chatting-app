@@ -2,7 +2,9 @@
 <p align="center">
 </p>
 
-## About Laravel
+# Laravel Chatting App 
+
+## Basic structure
 
 ## License
 
